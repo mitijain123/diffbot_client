@@ -1,0 +1,1 @@
+require "diffbot_client/article.rb"
